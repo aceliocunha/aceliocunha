@@ -1,0 +1,68 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# === C e C++ ===
+*.o
+*.out
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+*.bin
+*.elf
+*.map
+*.dSYM/
+*.log
+build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# === Jupyter Notebooks ===
+.ipynb_checkpoints/
+
+# === Ambientes virtuais ===
+.venv/
+venv/
+env/
+
+# === Modelos de redes neurais (PyTorch, GNN) ===
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
+*.npz
+
+# === Dados temporários ===
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.npy
+*.npz
+*.zip
+*.tar.gz
+
+# === PyTorch Geometric ===
+tmp/
+temp/
+dataset/
+datasets/
+results/
+__results__/
+
+# === IDEs ===
+.idea/
+.vscode/
+*.code-workspace
+
+# === Sistema Operacional ===
+.DS_Store
+Thumbs.db

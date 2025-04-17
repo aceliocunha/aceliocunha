@@ -1,0 +1,53 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# === Jupyter Notebooks ===
+.ipynb_checkpoints/
+
+# === Ambientes virtuais ===
+.venv/
+venv/
+env/
+
+# === Logs e saídas ===
+*.log
+*.tmp
+*.out
+
+# === Modelos de redes neurais (PyTorch, GNN) ===
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
+*.npz
+
+# === Dados de grafos e estruturas temporárias ===
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.npy
+*.npz
+*.zip
+*.tar.gz
+
+# === Diretórios e arquivos PyTorch Geometric pode gerar ===
+tmp/
+temp/
+dataset/
+datasets/
+results/
+__results__/
+
+# === Arquivos de IDEs ===
+.idea/
+.vscode/
+*.code-workspace
+
+# === Arquivos do sistema operacional ===
+.DS_Store
+Thumbs.db
