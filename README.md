@@ -14,8 +14,6 @@
 
 
 
-_____
-
 <a href="https://aceliocunha.github.io/textos.html">
   <img src="https://img.shields.io/badge/Writing_%26_Notes-0d1117?style=for-the-badge&logo=bookstack&logoColor=58A6FF" alt="Writing & Notes" />
 </a>
