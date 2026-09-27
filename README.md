@@ -79,6 +79,4 @@ I started in Mathematics, moved into Computer Science, earned an M.Sc, and someh
 
 <div align="center">
 
-<sub>Built with math, code, and plenty of coffee</sub> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="18" />
-
 </div>
