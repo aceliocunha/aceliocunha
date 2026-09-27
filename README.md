@@ -1,3 +1,4 @@
+<p align="center"><img src="divider.svg" width="100%" /></p>
 <div align="center">
 
 <img src="robot-coffee.svg" width="110" alt="Robot drinking coffee" />
@@ -20,7 +21,7 @@
 </a>
 </div>
 
----
+<p align="center"><img src="divider.svg" width="100%" /></p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" /> About me
 
@@ -32,7 +33,7 @@ I started in Mathematics, moved into Computer Science, earned an M.Sc, and someh
 -  **Ask me about:** Machine Learning, optimization, and the math behind the models
 -  **Fun fact:** I'm endlessly curious and love trying out new tools
 
----
+<p align="center"><img src="divider.svg" width="100%" /></p>
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="28" /> Languages and tools
@@ -73,6 +74,6 @@ I started in Mathematics, moved into Computer Science, earned an M.Sc, and someh
   <img src="https://img.shields.io/badge/Lean_4-0d1117?style=for-the-badge&logoColor=white" />
 </p>
 
----
+<p align="center"><img src="divider.svg" width="100%" /></p>
 
 
