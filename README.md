@@ -16,9 +16,13 @@
 
 _____
 
+<a href="https://aceliocunha.github.io/textos.html">
+  <img src="https://img.shields.io/badge/Writing_%26_Notes-0d1117?style=for-the-badge&logo=bookstack&logoColor=58A6FF" alt="Writing & Notes" />
+</a>
+</div>
 
+---
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" /> About me
-
 I started in Mathematics, moved into Computer Science, earned an M.Sc, and somehow decided a Ph.D. sounded like a good idea. These days, I work as an AI Developer, using math, code, and a fair amount of coffee to build Machine Learning solutions.
 
 -  **Researching:** Machine Learning and Deep Neural Networks
