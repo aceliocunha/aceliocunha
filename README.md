@@ -33,7 +33,7 @@ I started in Mathematics, moved into Computer Science, earned an M.Sc, and someh
 -  **Ask me about:** Machine Learning, optimization, and the math behind the models
 -  **Fun fact:** I'm endlessly curious and love trying out new tools
 
-_____
+
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="28" /> Languages and tools
 
@@ -43,7 +43,6 @@ _____
   <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=58A6FF" />
   <img src="https://img.shields.io/badge/VHDL-0d1117?style=for-the-badge&logoColor=white" />
 </p>
-_____
 
 **Machine Learning and data**
 
@@ -57,7 +56,6 @@ _____
   <img src="https://img.shields.io/badge/pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=E70488" />
   <img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626" />
 </p>
-_____
 
 **Generative AI and APIs**
 
@@ -68,7 +66,6 @@ _____
   <img src="https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" />
   <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688" />
 </p>
-_____
 
 **Formal proofs** <sub>(learning)</sub>
 
