@@ -15,21 +15,20 @@
 
 ---
 
-### 🧠 About me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" /> About me
 
 Mathematician by training, M.Sc. in Computer Science, and currently a Ph.D. candidate. I work as an AI Developer, bringing mathematical rigor to Machine Learning solutions.
 
-- 🔬 **Researching:** Machine Learning and Deep Neural Networks
-- 📐 **Learning:** Persistent Homology, Topological Data Analysis (TDA), and formal proofs with Lean and Isabelle
-- 🤝 **Open to collaborate on:** Machine Learning and Deep Learning projects
-- 💬 **Ask me about:** Machine Learning, optimization, and the math behind the models
-- ⚡ **Fun fact:** I'm endlessly curious and love trying out new tools
+-  **Researching:** Machine Learning and Deep Neural Networks
+-  **Learning:** Persistent Homology, Topological Data Analysis (TDA), and formal proofs with Lean and Isabelle
+-  **Open to collaborate on:** Machine Learning and Deep Learning projects
+-  **Ask me about:** Machine Learning, optimization, and the math behind the models
+-  **Fun fact:** I'm endlessly curious and love trying out new tools
 
 ---
 
-### 🧰 Languages and tools
 
-**Languages**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="28" /> Languages and tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=FFD43B" />
@@ -69,7 +68,7 @@ Mathematician by training, M.Sc. in Computer Science, and currently a Ph.D. cand
 
 ---
 
-### 📊 GitHub activity
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=aceliocunha&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" />
@@ -80,6 +79,6 @@ Mathematician by training, M.Sc. in Computer Science, and currently a Ph.D. cand
 
 <div align="center">
 
-<sub>Built with math, code, and plenty of coffee ☕</sub>
+<sub>Built with math, code, and plenty of coffee</sub> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="18" />
 
 </div>
