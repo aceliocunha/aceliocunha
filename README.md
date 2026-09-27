@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Lato&weight=700&size=30&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Ac%C3%A9lio+%F0%9F%91%8B;Mathematician+%C2%B7+AI+Developer. From+theory+to+practice%2C+one+commit+at+a+time." alt="Hi, I'm Acélio" />
+<img src="https://readme-typing-svg.demolab.com?font=Lato&weight=700&size=29&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Ac%C3%A9lio+%F0%9F%91%8B;Mathematician+%C2%B7+AI+Developer;From+theory+to+practice%2C+one+commit+at+a+time." alt="Hi, I'm Acélio" />
 
-**A researcher who writes code. A developer who formulates hypotheses.**
+**A researcher who writes code, a developer who formulates hypotheses.**
 
 <a href="https://aceliocunha.github.io">
   <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=58A6FF" alt="Portfolio" />
