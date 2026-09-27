@@ -69,7 +69,7 @@ I started in Mathematics, moved into Computer Science, earned an M.Sc, and someh
   <img src="https://img.shields.io/badge/Lean_4-0d1117?style=for-the-badge&logoColor=white" />
 </p>
 
-_____
+
 
 
 
