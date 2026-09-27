@@ -65,7 +65,6 @@ Mathematician by training, M.Sc. in Computer Science, and currently a Ph.D. cand
 
 <p>
   <img src="https://img.shields.io/badge/Lean_4-0d1117?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Isabelle%2FHOL-0d1117?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
