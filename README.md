@@ -10,7 +10,6 @@
 <a href="https://aceliocunha.github.io/textos.html">
   <img src="https://img.shields.io/badge/Writing_%26_Notes-0d1117?style=for-the-badge&logo=bookstack&logoColor=58A6FF" alt="Writing & Notes" />
 </a>
-<sub>Built with math, code, and plenty of coffee</sub> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="18" />
 </div>
 
 ---
@@ -72,11 +71,11 @@ I started in Mathematics, moved into Computer Science, earned an M.Sc, and someh
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=aceliocunha&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aceliocunha&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used languages" />
-</p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aceliocunha&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used languages" /></p>
 
----
 
 <div align="center">
+
+<sub>Built with math, code, and plenty of coffee</sub> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="18" />
 
 </div>
