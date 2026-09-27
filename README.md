@@ -12,13 +12,7 @@
 
 **A researcher who writes code, a developer who formulates hypotheses.**
 
-<a href="https://aceliocunha.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=58A6FF" alt="Portfolio" />
-</a>
-<a href="https://aceliocunha.github.io/textos.html">
-  <img src="https://img.shields.io/badge/Writing_%26_Notes-0d1117?style=for-the-badge&logo=bookstack&logoColor=58A6FF" alt="Writing & Notes" />
-</a>
-</div>
+
 
 _____
 
